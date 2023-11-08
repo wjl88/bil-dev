@@ -2,7 +2,13 @@
 
 <p>so many to list. might as well start</p>
 
+<h2>Stickers</h2>
+<p>20231107 <a href="/projects/hender-code-sticker">Henderson Cat QR Code</a></p>
+
 <style>
+h1, h2 {
+        font-family: gerhaus;
+    }    
     p {
         font-family: duo;
     }

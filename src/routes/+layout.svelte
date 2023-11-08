@@ -1,5 +1,5 @@
 <slot />
-
+<hr>
 <p>
     <a href="/">root</a>
     <a href="/cv">cv</a>
@@ -17,6 +17,7 @@
     }
 
     p{
+        margin: 0 0 0.4rem 0;
         font-family: duo;
     }
 
