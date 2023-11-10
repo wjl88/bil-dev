@@ -15,15 +15,14 @@
 <p>igor pro, svelte, C++, C#, python, javascript, bash</p>
 <h1>Computing that makes me happy:</h1>
 <p>
-    igor pro, emacs, blender, gimp, s\
-    shotcut, unity3D, pytorch, arduino, audacity, embedded systems, nginx, i3, linux
+    igor pro, emacs, blender, gimp, shotcut, unity3D, pytorch, arduino, audacity, embedded systems, nginx, i3, linux
     everything
 </p>
 <h1>Tiny things</h1>
 <p>tinyphone, falcon, svelte, jetson nano, raspberry pi zero</p>
 <h1>Volunteer Work</h1>
 <p>
-    Mentor for Girl Scout Robotics team The Tech Hoppers , K-12 Educational
+    Mentor for Girl Scout Robotics team The Tech Hoppers, K-12 Educational
     Outreach (Cornell Tech), Science Fair Judge, Graduate School Application
     mentor (Lehigh, Cornell), International Student Orientation Leader (Lehigh),
     Graduate Summer Softball League Commissioner
@@ -31,7 +30,7 @@
 
 <style>
     h1 {
-        font-family: gerhaus;
+        font-family: fulbo;
     }
     p {
         font-family: duo;
