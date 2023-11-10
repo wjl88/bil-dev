@@ -1,25 +1,26 @@
 <h1>Education</h1>
 
-<p>Tech MBA from Cornell</p>
+<p>Tech MBA, Cornell</p>
 <p>
-    Ph.D. in Chemistry from Lehigh University under the advisement of Dmitri
-    Vezenov
+    Ph.D. in Chemistry, Lehigh University
 </p>
-<p>BS in Chemistry from West Chester University</p>
+<p>BS in Chemistry, West Chester University</p>
 
 <h1>Skills I have no business having:</h1>
 <p>
-    Scientific glassblowing, bread baking, framing woodwork, photography,
+    scientific glassblowing, bread baking, framing woodwork, photography,
     off-road racing, laser engraving, dungeon mastering, improv everything
 </p>
 <h1>Computer languages I don't hate:</h1>
-<p>Igor Pro, C++, C#, python, javascript, bash</p>
+<p>igor pro, svelte, C++, C#, python, javascript, bash</p>
 <h1>Computing that makes me happy:</h1>
 <p>
-    Igor Pro, Emacs, Unity3D, Blender, Gimp, Shotcut, pytorch, Arduino, Linux
-    everything, embedded systems
+    igor pro, emacs, blender, gimp, s\
+    shotcut, unity3D, pytorch, arduino, audacity, embedded systems, nginx, i3, linux
+    everything
 </p>
-
+<h1>Tiny things</h1>
+<p>tinyphone, falcon, svelte, jetson nano, raspberry pi zero</p>
 <h1>Volunteer Work</h1>
 <p>
     Mentor for Girl Scout Robotics team The Tech Hoppers , K-12 Educational
