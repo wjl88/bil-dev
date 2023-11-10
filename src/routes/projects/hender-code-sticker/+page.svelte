@@ -51,7 +51,7 @@
     }
 
     h1 {
-        font-family: gerhaus;
+        font-family: fulbo;
     }
     p {
         font-family: duo;

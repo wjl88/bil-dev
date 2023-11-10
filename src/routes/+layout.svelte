@@ -28,7 +28,7 @@
     }
 
     @font-face {
-        font-family: "gerhaus";
+        font-family: "fulbo";
         font-style: normal;
         src: local(""), url("/fonts/fulbo.otf");
     }

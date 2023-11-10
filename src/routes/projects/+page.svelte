@@ -9,7 +9,7 @@
 
 <style>
 h1, h2 {
-        font-family: gerhaus;
+        font-family: fulbo;
     }    
     p {
         font-family: duo;
