@@ -6,6 +6,7 @@
         <a href="/cv">cv</a>
         <a href="/projects">projects</a>
         <a href="/notes">notes</a>
+        <a href="/objects">objects</a>
     </p>
 </div>
 
