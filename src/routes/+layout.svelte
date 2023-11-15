@@ -17,7 +17,10 @@
         height: fit-content;
     }
 
-    p {
+    :global(h1, h2, h3){
+        font-family: fulbo;
+    }
+    :global(p) {
         margin: 0 0 0.4rem 0;
         font-family: duo;
     }
