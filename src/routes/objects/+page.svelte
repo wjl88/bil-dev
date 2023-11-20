@@ -27,7 +27,7 @@
 <p>Windows 3.1 STM Computer</p>
 
 <h2>Small Computers</h2>
-<p>Raspoberry Pi</p>
+<p>Raspberry Pi</p>
 <p>Jetson Nano</p>
 <p>NVIDIA Orin</p>
 <p>Xavier AGX</p>
