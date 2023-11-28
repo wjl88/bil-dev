@@ -24,8 +24,7 @@
 <p>
     Mentor for Girl Scout Robotics team The Tech Hoppers, K-12 Educational
     Outreach (Cornell Tech), Science Fair Judge, Graduate School Application
-    mentor (Lehigh, Cornell), International Student Orientation Leader (Lehigh),
-    Graduate Summer Softball League Commissioner
+    mentor (Lehigh, Cornell), International Student Orientation Leader (Lehigh), Graduate Summer Softball League Commissioner (Lehigh)
 </p>
 
 <style>
